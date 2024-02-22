@@ -1,4 +1,4 @@
-<h1 align="center">Hi visitor, I'm KasRoudra!</h1>
+<h1 align="center">Hi visitor, I'm Arfat Ahmed!</h1>
 <p align="center">
 <a href="https://kasroudra.github.io/" target="_blank">
    <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
@@ -133,12 +133,12 @@
 
 ### Contact me:
 
-<a href="https://github.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/masumkhanarfat" target="_blank"><img src="https://img.shields.io/badge/Github-Arfat Ahmed-green?style=for-the-badge&logo=github"></a>
 
-<a href="https://facebook.com/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a>
+<a href="https://facebook.com/masumkhanarfat07" target="_blank"><img src="https://img.shields.io/badge/FaceBook-Arfat Ahmed-purple?style=for-the-badge&logo=facebook"></a>
 
-<a href="https://twitter.com/Kas_Roudra" target="_blank"><img src="https://img.shields.io/badge/Twitter-KasRoudra-blue?style=for-the-badge&logo=twitter"></a>
+<a href="https://twitter.com/masumkhanarfat" target="_blank"><img src="https://img.shields.io/badge/Twitter-Arfat Ahmed-blue?style=for-the-badge&logo=twitter"></a>
 
-<a href="https://m.me/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&logo=messenger"></a>
+<a href="https://m.me/masumkhanarfat09" target="_blank"><img src="https://img.shields.io/badge/Messenger-Arfat Ahmed-red?style=for-the-badge&logo=messenger"></a>
 
-<a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:masumkhanarfat@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-masumkhanarfat@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
